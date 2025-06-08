@@ -1,0 +1,71 @@
+# Arquivos executáveis
+teste
+avalia
+main
+meuAlocador
+*.exe
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos de biblioteca
+*.a
+*.lib
+*.so
+*.dylib
+
+# Arquivos temporários do compilador
+*.tmp
+*.temp
+
+# Arquivos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Arquivos de backup do editor
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+# Arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos do sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs e saídas
+*.log
+saida.txt
+output.txt
+
+# Arquivos de teste personalizados
+teste_*
+debug_*
+
+# Makefile gerado automaticamente (se houver)
+Makefile.bak
+
+# Arquivos de análise estática
+*.gcov
+*.gcda
+*.gcno
+
+# Valgrind outputs
+vgcore.*
+valgrind-out.txt
